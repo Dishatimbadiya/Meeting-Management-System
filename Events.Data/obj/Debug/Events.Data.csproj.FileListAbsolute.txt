@@ -1,0 +1,13 @@
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.pdb
