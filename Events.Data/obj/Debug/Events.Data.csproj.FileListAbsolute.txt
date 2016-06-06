@@ -9,5 +9,6 @@ C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\De
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.dll
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.pdb
