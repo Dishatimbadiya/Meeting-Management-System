@@ -1,4 +1,4 @@
-The uploaded project is done by following the http://www.nakov.com/blog/2015/05/28/free-asp-net-mvc-hands-on-lab/ tutorial.
+The uploaded project is based on the http://www.nakov.com/blog/2015/05/28/free-asp-net-mvc-hands-on-lab/ tutorial.
 
 ___ASP.NET MVC Lab (May 2015) – Web Based Events Management System___
 
