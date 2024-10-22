@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - Public Events</title>
+    <title>@ViewBag.Title - Public Meets</title>
     @Styles.Render("~/Content/css")
     @RenderSection("styles", required: false)
     @Scripts.Render("~/bundles/modernizr")
@@ -19,14 +19,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Events", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Meets", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     @if (Request.IsAuthenticated)
                     {
-                        <li>@Html.ActionLink("My Events", "My", "Events")</li>
-                        <li>@Html.ActionLink("Create Event", "Create", "Events")</li>
+                        <li>@Html.ActionLink("My Meets", "My", "Events")</li>
+                        <li>@Html.ActionLink("Create Meets", "Create", "Events")</li>
                     }
                 </ul>
                 @Html.Partial("_LoginPartial")
@@ -38,7 +38,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Events Application</p>
+            <p>&copy; @DateTime.Now.Year - Meets Application</p>
         </footer>
     </div>
 

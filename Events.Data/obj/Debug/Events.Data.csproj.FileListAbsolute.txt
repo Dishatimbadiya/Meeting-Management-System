@@ -12,3 +12,19 @@ C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\bin\De
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.dll
 C:\Users\bbb\Documents\Visual Studio 2013\Projects\Events-Lab\Events.Data\obj\Debug\Events.Data.pdb
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\obj\Debug\Events.Data.csproj.AssemblyReference.cache
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\obj\Debug\Events.Data.csproj.CoreCompileInputs.cache
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\obj\Debug\Events.D.2DBE4AE4.Up2Date
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\yasht\Source\Repos\ASP.NET-MVC-small-project\Events.Data\obj\Debug\Events.Data.pdb

@@ -18,6 +18,7 @@ namespace Events.Web.Models
 
         [DataType(DataType.DateTime)]
         [Display(Name = "Date and Time")]
+        [FutureDate(ErrorMessage = "The meeting date must be in the future.")]
         public DateTime StartDateTime { get; set; }
 
         public TimeSpan? Duration { get; set; }
@@ -39,8 +40,24 @@ namespace Events.Web.Models
                 Duration = e.Duration,
                 Location = e.Location,
                 Description = e.Description,
-                IsPublic = e.IsPublic
+                IsPublic = e.IsPublic,
             };
+        }
+    }
+
+    // Custom validation attribute for future dates
+    public class FutureDateAttribute : ValidationAttribute
+    {
+        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        {
+            if (value is DateTime dateTime)
+            {
+                if (dateTime <= DateTime.Now)
+                {
+                    return new ValidationResult(ErrorMessage);
+                }
+            }
+            return ValidationResult.Success;
         }
     }
 }
